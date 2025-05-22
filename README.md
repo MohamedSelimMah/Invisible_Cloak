@@ -1,7 +1,3 @@
-Here’s the corrected and properly formatted version:
-
----
-
 # 🧙‍♂️ Invisible Cloak Using OpenCV 🪄
 
 This project creates a magical "invisibility cloak" effect using a webcam and OpenCV. It detects a specific color (🔵 blue by default) and replaces it with the captured background, making objects of that color disappear in real-time. ✨
