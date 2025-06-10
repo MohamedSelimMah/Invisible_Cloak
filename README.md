@@ -84,7 +84,6 @@ Feel free to open issues or submit pull requests for improvements or new feature
 ---
 
 
-
 ## 🙌 Acknowledgments
 
 * ❤️ **OpenCV** for its amazing library.
